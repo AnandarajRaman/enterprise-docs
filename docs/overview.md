@@ -8,7 +8,7 @@ keywords: boldreports
 canonical: ''
 ---
 
-# Overview
+# Overview1
 
 The Bold Reports is an online solution for analyzing data in web using the interactive reports with key metrics and tracking your business easily.
 
